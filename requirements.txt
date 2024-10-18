@@ -170,7 +170,7 @@ tinycss2==1.2.1
 toml==0.10.2
 tomli==2.0.1
 torch==2.2.2
-tornado==6.2
+tornado==6.4.1
 traitlets==5.8.1
 typing_extensions==4.11.0
 tzdata==2023.4
