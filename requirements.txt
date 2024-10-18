@@ -35,7 +35,7 @@ entrypoints==0.4
 executing==1.2.0
 fastjsonschema==2.16.2
 filelock==3.14.0
-fiona==1.9.5
+fiona==1.10.0
 fqdn==1.5.1
 fsspec==2024.3.1
 future==1.0.0
