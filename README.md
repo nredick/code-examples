@@ -4,4 +4,4 @@
 
 Click this button to launch the code examples in your browser:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/IBM/python-and-analytics/master?filepath=notebooks%2Fcode_examples%2FREADME.md)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nredick/code-examples/main)
