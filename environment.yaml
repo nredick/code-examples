@@ -1,0 +1,17 @@
+name: gel298.geodynamic-modelling
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - folium=0.17.0
+  - gdal=3.9.2
+  - geopandas=1.0.1
+  - gmt=6.5.0
+  - ipykernel=6.29.5
+  - ipython=8.28.0
+  - jupyter_client=8.6.3
+  - jupyter_core=5.7.2
+  - numpy=2.1.1
+  - pandas=2.2.3
+  - pygmt=0.13.0
+prefix: /usr/local/Caskroom/miniconda/base/envs/gel298.geodynamic-modelling
