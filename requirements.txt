@@ -1,5 +1,0 @@
-numpy
-geopandas
-pandas
-folium
-pygmt
